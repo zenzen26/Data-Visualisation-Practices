@@ -1,2 +1,6 @@
 Practicing tableau. Data is sourced from the aihw.gov.au
-The following cases or stats are only recorded based on the amount of SHS clients recorded in each financial year.
+The cases or stats are only recorded based on the amount of SHS clients recorded in each financial year.
+
+The dashboard is interactive, please view it from here https://public.tableau.com/views/Homelessness_17434814972700/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+The "homeless and health.xlsx" is the cleaned and combined version of the two other excel datasets retrieved from the AIHW website.
